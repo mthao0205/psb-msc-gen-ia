@@ -8,6 +8,5 @@ heure = total // 3600
 minute = (total % 3600) // 60
 seconde = total % 60
 print(f"{heure} heures {minute} minutes et {seconde} secondes")
-print(f"{heure} heures {minute} minutes et {seconde} secondes")
 
 
